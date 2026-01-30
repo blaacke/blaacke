@@ -4,7 +4,7 @@ Hi 👋 My name is Tiago Zanotto
 Full Stack Developer
 --------------------
 
-I'm a developer with 4 years experience. In my first year, i only worked with java. After that i started coding in dart/flutter as well.
+I'm a developer with 6 years experience. In my first year, i only worked with java. After that i started coding in dart/flutter as well.
 
 *   🌍  I'm based in Garibaldi
 *   ✉️  You can contact me at [tiagoz.blk@gmail.com](mailto:tiagoz.blk@gmail.com)
